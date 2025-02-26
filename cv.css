@@ -1,0 +1,24 @@
+#h2 {
+    color: #a72c2c;
+    margin: 20px;
+}
+.education{
+    font-size: 14px;
+    font-weight: 100;
+
+}
+body{
+    background-color: grey;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+.container img {
+   width: 200px;
+   border-radius: 50%;
+}
+hr{
+    border: 10px solid rgb(144, 148, 144);
+  border-radius: 5px;
+  width: 25%;
+}
